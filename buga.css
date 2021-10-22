@@ -1,0 +1,101 @@
+.body{
+    width: 1440px;
+    width: 3024px ;
+}
+.menu{
+    width: 1440px;
+    height: 70px;
+    float: left;
+}
+.left{
+    width: 440px;
+    height: 70px;
+    float: left;
+}
+.right{
+    width: 800px;
+    height: 70px;
+    float: left;
+}
+h5{
+    text-align: center;
+    font-size: 24px;
+    margin-top: 20px;
+}
+.right ul li{
+    float: left;
+    list-style: none;
+    margin: auto;
+    padding: 10px 30px;
+}
+.right a{
+    text-decoration: none;
+    cursor: pointer;
+    font-weight: bold;
+    color: black;
+}
+.right a:hover{
+    color: red;
+}
+.icon{
+    width: 200px;
+    float: left;
+    text-align: center;
+    margin-top: 25px ;
+}
+.icon a{
+    margin-left: 10px;
+}
+.anh{
+    margin-left: 40px;
+}
+h3{
+    margin-left: 700px;
+}
+.sp{
+    width: 840px;
+    height: 800px;
+    margin-left: 300px;
+}
+.traitren{
+    width: 310px;
+    height: 800px;
+    float: left;
+}
+.t1{
+    width: 310px;
+    height: 390px;
+}
+.t1 img{
+    width: 310px;
+    height: 390px;
+}
+.t2{
+    width: 310px;
+    height: 390px;
+    margin-top: 20px;
+}
+.t2 img{
+    width: 310px;
+    height: 390px;
+}
+.phaitren{
+    width: 510px;
+    height: 800px;
+    float: left;
+    margin-left: 20px;
+}
+.phaitren img{
+    width: 510px;
+    height: 800px;
+}
+.duoi{
+    width: 840px;
+    height: 400px;
+    margin-left: 300px;
+    margin-top: 20px;
+}
+.duoi img{
+    width: 840px;
+    height: 400px;
+}
